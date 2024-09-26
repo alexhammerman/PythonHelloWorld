@@ -1,6 +1,6 @@
 """ 
 This is my first program (or not!)
-This program prints out "Hello World"
+This program prints out "Hi There Thane Fedrick From E3"
 Thane A. Fedrick september 2024
 """
 π: str = "E3."
