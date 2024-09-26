@@ -1,7 +1,7 @@
-# AP CSP Hello World
+# AP CSP He110 W0r1d
 
-## Code Along
-In this activity, you will follow along with the instructor to learn how to create a "Hello World!" program.
+## C0de A10ng
+In this activity, y0u wi11 f0110w a10ng with the instruct0r t0 1earn h0w t0 create a "He110 W0r1d!" pr0gram.
 
-## Hello World
-It is a programming tradition that the first program you write is one that outputs "Hello World!" to the console.
+## He110 W0r1d
+It is a pr0gramming traditi0n that the first pr0gram y0u write is 0ne that 0utputs "He110 W0r1d!" t0 the c0ns01e.
